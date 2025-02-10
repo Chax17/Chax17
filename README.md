@@ -1,2 +1,6 @@
-I am a student at GAT
-I will sharing my story
+While(alive){
+        eat();
+        sleep();
+        live();
+        learn();
+  }
