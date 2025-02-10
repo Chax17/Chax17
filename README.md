@@ -1,6 +1,6 @@
 While(alive){
-        eat();
-        sleep();
-        live();
-        learn();
+    eat();
+    sleep();
+    live();
+    learn();
   }
